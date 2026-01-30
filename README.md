@@ -97,7 +97,9 @@ Este projeto consolida fundamentos importantes e serve como base para evoluçõe
 ## 📁 Estrutura do Projeto
 
 ```text
+README.md
+Sleep_health_and_lifestyle_dataset.csv 
 project_sleep.ipynb  
-Sleep_health_and_lifestyle_dataset.csv  
-README.md  
+requirements.txt
+  
 
